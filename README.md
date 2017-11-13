@@ -35,6 +35,7 @@ gulp help
 **update:config** 更新amd配置  
 **check:js** 检查js(可能无用的模块依赖）
 **clean** 清理
+**default** (默认) 开启本地服务
 
 ## 增量编译
 
